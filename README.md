@@ -21,9 +21,9 @@ Builds the app and runs it on localhost:3000.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-<img width="2056" alt="desktop spread" src="https://github.com/balbphegor/EpubJs-ReactWrap/assets/19189238/976935f7-81f7-49ae-9e25-d4fe19f73968">
-<img width="384" alt="mobile" src="https://github.com/balbphegor/EpubJs-ReactWrap/assets/19189238/70262c31-d2f4-402e-bdfe-931c67e163d8">
-<img width="386" alt="mobile2" src="https://github.com/balbphegor/EpubJs-ReactWrap/assets/19189238/81806115-286e-4395-9040-0b6508a97045">
-<img width="383" alt="mobileLinks" src="https://github.com/balbphegor/EpubJs-ReactWrap/assets/19189238/1e859f04-cf28-4060-ac64-9e8a6a730e87">
-<img width="384" alt="mobileSmall" src="https://github.com/balbphegor/EpubJs-ReactWrap/assets/19189238/bf481313-4bdd-4b56-a242-a7d4da5439d3">
+<img width="300" alt="gallery" src="https://github.com/balbphegor/EpubJs-ReactWrap/assets/19189238/e35b0925-e83f-4546-95f1-9d65d1591a64">
+<img width="300" alt="desktop spread" src="https://github.com/balbphegor/EpubJs-ReactWrap/assets/19189238/976935f7-81f7-49ae-9e25-d4fe19f73968">
+<img width="300" alt="mobile" src="https://github.com/balbphegor/EpubJs-ReactWrap/assets/19189238/70262c31-d2f4-402e-bdfe-931c67e163d8">
+<img width="300" alt="mobile2" src="https://github.com/balbphegor/EpubJs-ReactWrap/assets/19189238/81806115-286e-4395-9040-0b6508a97045">
+<img width="300" alt="mobileLinks" src="https://github.com/balbphegor/EpubJs-ReactWrap/assets/19189238/1e859f04-cf28-4060-ac64-9e8a6a730e87">
+<img width="300" alt="mobileSmall" src="https://github.com/balbphegor/EpubJs-ReactWrap/assets/19189238/bf481313-4bdd-4b56-a242-a7d4da5439d3">
