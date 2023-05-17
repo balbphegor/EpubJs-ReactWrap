@@ -1,0 +1,123 @@
+*,
+::before,
+::after,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.gallery {
+  margin: 1rem 20% 0px 20%;
+}
+
+.nobooks {
+  margin-top: 10%;
+}
+.upload-book {
+  cursor: pointer;
+  margin: 0 5% 0 1%;
+}
+.card-text {
+  font-size: 0.75rem;
+}
+a {
+  text-decoration: none !important;
+  color: black;
+}
+
+#border-box {
+  margin: auto;
+  width: 90%;
+  height: 90vh;
+  margin-top: 3vh;
+}
+.navbar-brand {
+  margin-right: 0;
+}
+.container {
+  justify-content: flex-start !important;
+}
+.navbar-toggler {
+  margin-left: auto !important;
+}
+.navbar-collapse {
+  margin-left: auto !important;
+  flex-grow: 0 !important;
+}
+
+#viewer {
+  position: fixed;
+  left: 5%;
+  height: 100%;
+  width: 100%;
+}
+
+#controls {
+  background-color: #be8f3c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  height: 5rem;
+  position: fixed;
+  z-index: 100;
+  right: 0;
+  bottom: 0;
+  padding: 1rem;
+
+  width: 100%;
+}
+.control-button {
+  justify-content: center;
+  height: 4rem;
+  width: 4rem;
+  font-size: 1rem;
+  background-color: #f2dcb1;
+  display: inline-flex;
+  align-items: center;
+  border: none;
+}
+
+@media (max-width: 600px) {
+  #controls {
+    width: 100%;
+    right: 0;
+    border-radius: 0;
+    justify-content: center;
+    background-color: #be8f3c;
+  }
+  #border-box {
+    padding: 0 5% 0 5%;
+    margin-top: 3%;
+  }
+  #viewer {
+    top: 0%;
+  }
+}
+.canvas {
+  position: absolute;
+  height: 1000px;
+}
+.line-1 {
+  height: 40%;
+  background: black;
+  width: 3px;
+  border-radius: 5px;
+  margin-left: 20%;
+}
+
+.line-2 {
+  height: 40%;
+  background: black;
+  width: 3px;
+  border-radius: 5px;
+  margin: 0 5%;
+}
+
+.line-3 {
+  height: 40%;
+  background: black;
+  width: 3px;
+  border-radius: 5px;
+  margin-right: 20%;
+}
