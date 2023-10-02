@@ -1,8 +1,9 @@
 ### ePub Reader
 
-A React wrapper for `epub.js`. I use `react-bootstrap` for some of the styling in the gallery. Everything else I have styled by hand in `index.css`. I used `react-router` for routes between the About page, Library and Books. I intend to host this web application on my Raspberry Pi (`if it ever comes in the mail :/`).
+Uses epubjs to render to a div
 
-This is a very early build of the project. If you compile this project, you will find some warnings. The webpack will still deploy the project just fine, so it does not jeopordize the functionality of the application. If you would like to work to eliminate these warnings in the code, I will gladly appreciate any contributions with appropriate credit to my open source project.
+react to access and display epub to epub reader module
+
 
 ## DISCLAIMER
 
